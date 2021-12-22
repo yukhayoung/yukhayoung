@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?color=auto&type=Waving&text=Hello!&animation=fadeIn&fontSize=40&fontColor=000000)
 
 <div id = "github-stats">
-  <center>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukhayoung&show_icons=true&theme=vue-dark) 
-  </center>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukhayoung&show_icons=true&theme=vue-dark)
 </div>
 
