@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?color=auto&type=Waving&text=Hi%20there👋&animation=fadeIn&fontSize=40&fontColor=000000)
 <!-- header waving 설정  -->
-
 <h3 align="center">
 I'm Yuk Ha Young, a growing developer.<br>
 Keep Going!
