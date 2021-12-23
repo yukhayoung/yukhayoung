@@ -10,7 +10,7 @@ Keep Going!
 <h3 align="center"> Technology Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-c-9cf"/>&nbsp
+  <img src="https://img.shields.io/badge/-C-9cf"/>&nbsp
   <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp 
   <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp
   <br>
