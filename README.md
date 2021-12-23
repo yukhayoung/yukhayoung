@@ -6,6 +6,8 @@ I'm Yuk Ha Young, a growing developer.<br>
 Keep Going!
 </h3>
 
+<h3 align="center">/</h3>
+
 <h3 align="center"> Technology Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
