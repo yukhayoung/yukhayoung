@@ -1,14 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?color=auto&type=Waving&text=Hi%20there👋&animation=fadeIn&fontSize=40&fontColor=000000)
 <!-- header waving 설정  -->
 
-<p align = "right">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyukhayoung&count_bg=%2379C83D&title_bg=%23514D4D&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%BBhits++&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--방문자 수 설정-->
-</p>
-
 <p align="center">
 I'm Yuk Ha Young, a growing developer.<br>
 Keep Going!
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyukhayoung&count_bg=%2379C83D&title_bg=%23514D4D&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%BBhits++&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--방문자 수 설정-->
 </p>
 
 <h3 align="center">📚 Technology Stack 📚</h3>
@@ -27,9 +25,9 @@ Keep Going!
 <h3 align="center">/</h3>
 
 <p align="center">
-  <a href="https://buildtoday.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://buildtoday.tistory.com/"/></a>&nbsp
+  <a href="https://buildtoday.tistory.com/"><img src="https://img.shields.io/badge/Tistory-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://buildtoday.tistory.com/"/></a>&nbsp
   <a href="https://velog.io/@whyhy"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@whyhy"/></a>&nbsp
-  <a href="https://www.instagram.com/hyysumlikeu/"><img src="https://img.shields.io/badge/E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyysumlikeu/"/></a>
+  <a href="https://www.instagram.com/hyysumlikeu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyysumlikeu/"/></a>
 </p>
 
 
